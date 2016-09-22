@@ -1,0 +1,39 @@
+
+
+
+** Add a special font to each element of your page (headers, tables, divs, etc.)
+* Create a special class for each of your divs that changes the border, margins, padding, etc.
+* Make the background of at least one of your divs an image from the web (as a bonus try to find out how to make the image not repeat).
+* Create a new fixed position nav bar. Align it to the top right of the page. Have the nav-bar link to your email address, your github page, Interapt’s website, EKCEP’s website, and one website of your choosing.
+* Create a table that makes each even element blue and each odd element red
+* BONUS: Create a dropdown menu with links to a site of your choosing
+
+
+
+
+As with last night’s assignment, remember to use the plethora of online resources to find an answer to an issue before reaching out for help. Remember the order:
+
+
+1. Google & Stack Overflow
+2. Fellow Students
+3. TA or Instructor 
+
+
+Submit the homework to your TA through slack. Make sure to put both your html and css file in the same folder and compress it before sending. To compress a folder simply two finger click (right click) and click compress.
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Expand upon the web-pages you created last night to include CSS
+
+* CSS used for this homework must be placed into and called from a separate file
+* Align all header text to the center

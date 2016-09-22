@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+* Bonus: Use tables
+
+* Bonus: Create a two-column layout
+
+ 
+
+
+
+
+
+
+Use of an ordered or unordered list
+Use of a horizontal separator
+* At least five things about yourself.
+* At least one image of your favorite CAR or animal.
+* Use of style attributes
+* Some use of bold, italicized, or underlined text
+* Website link must have custom text and open in a new tab
+
+shift+option+f 

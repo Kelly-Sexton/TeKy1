@@ -1,0 +1,91 @@
+body {
+    background-color:lightgrey;
+  
+}
+ul{
+    list-style:none;
+    background-color:lightgrey;
+    display:inline;
+}
+li{
+    float:right;
+    padding:5px;
+    color:white;
+}
+
+.nav-color{
+  background-color: lightgrey
+}
+
+
+
+h1,h2,h3{
+    text-align: center;
+    font-family: "Georgia";
+}
+
+.notthebody p{
+    margin:20px;
+
+
+
+}
+ 
+ 
+
+.newspaper {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+    -webkit-column-rule-style: solid; /* Chrome, Safari, Opera */
+    -moz-column-rule-style: solid; /* Firefox */
+    column-rule-style: solid;
+    text-align: justify
+}
+img {
+   display: block;
+   margin: auto;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px;
+}
+table {
+    border: 1px solid black;
+    width:100%;
+}
+
+footer {
+    display: block;
+   margin: auto;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px;
+    background-image: url("http://tse1.mm.bing.net/th?id=OIP.M32d25dea0aff24486c75b500b1638b9fo0&pid=15.1");
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+table {
+    width:100%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+table#t01 tr:nth-child(even) {
+    background-color:blue;
+}
+table#t01 tr:nth-child(odd) {
+   background-color:red;
+}
+table#t01 th {
+    background-color: black;
+    color: white;
+}
