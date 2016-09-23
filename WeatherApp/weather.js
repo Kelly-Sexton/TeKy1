@@ -1,11 +1,19 @@
 $(function() {
 
-var zip = "41824";//add text input here
+// var zip = "41824";//add text input here
+
+$("#zipInputButton").click(function () {
+var zip = $("#zipbox").val();
+
+
+
+
+
+
 
 var googleUrl = "https://maps.googleapis.com/maps/api/geocode/json?address=" + zip + "&key=AIzaSyD_GFnLVIgSuZ1ajEX4BvU3fTERUCC1qbA";
 
 var  darkSkyKey = "b7bc09fbf528eaf0b0cb02eeb7fbf8a4";
-
 
 
 
@@ -31,6 +39,8 @@ $.ajax("https://api.darksky.net/forecast/" + darkSkyKey + "/37.8267,-122.4233", 
 
 
 console.log(data);
+});
+
 });
 
 });
